@@ -1,0 +1,88 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: l5SgEW50DHMvmf7K3FKBWoSG3Tw=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: MSx+WNLE0qOacucfdlQouq9U7QM=
+
+Name: META-INF/com/miui/miui_update
+SHA1-Digest: JaQ7DYcG5ZWoIweOsS9w5a0sz90=
+
+Name: cust/cust/cn/cust.prop
+SHA1-Digest: YqPEPknSzF3LGkWcg/jy4aQgAP4=
+
+Name: cust/cust/cn/ota_recommended_applist
+SHA1-Digest: ZjH5bB0rq/0jhGifU93e6NlN0oM=
+
+Name: cust/cust/eu/ota_recommended_applist
+SHA1-Digest: Gpmg06aiY5xkDHaWqSN5O8gMGCE=
+
+Name: system.patch.dat
+SHA1-Digest: 774VWw1Wa8Y+IPKHHCeM6N//yzE=
+
+Name: cust/cust_variant
+SHA1-Digest: pSkfYzm65QTiNP33XquSXoSov4w=
+
+Name: system.transfer.list
+SHA1-Digest: hBA6R+OpN9breUQUk/4+IILC3kg=
+
+Name: cust/current/cust.prop
+SHA1-Digest: Ao0S5FeWGc7PzB59FThCR7dkWxA=
+
+Name: firmware-update/keymaster.mbn
+SHA1-Digest: KF6sXG0/JAa5xcSVdLVwhktbVJw=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: yrm+kk2OBNdrkHhLjIW6SsbOUAU=
+
+Name: cust/app/customized/XiaomiAuthenticator/XiaomiAuthenticator.apk
+SHA1-Digest: 48XRUFeeCDGB7dJ3FJTrrFWHRpY=
+
+Name: cust/cust/eu/ota_customized_channellist
+SHA1-Digest: P/sISe+IjQnbW+qRy7KkUQkft0I=
+
+Name: file_contexts
+SHA1-Digest: 0JYkDCfdXK+iBGyzQNyi61TaeWc=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: x2Mig881EfKBMgj/iofQ1NWe7Do=
+
+Name: firmware-update/adspso.bin
+SHA1-Digest: utv7UWJYDp1rFxty5gnGgBXzTQQ=
+
+Name: cust/cust/eu/cust.prop
+SHA1-Digest: 8ziYvdJjoVb3elI8foppUYdft0Q=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 4tLEKjIFS2gdFMqZ2m3VUejKxpk=
+
+Name: cust/cust/cn/ota_customized_applist
+SHA1-Digest: SrA2KY8qUoPW85TCVzt1LKrPas8=
+
+Name: firmware-update/hyp.mbn
+SHA1-Digest: 0uJqHGToFwEeuZFWDbN56yV5vSg=
+
+Name: cust/cust/eu/ota_customized_applist
+SHA1-Digest: iFwXOtrkYcuEqZUaE4zBF6ytDhY=
+
+Name: boot.img
+SHA1-Digest: Or8Bu4MFNGLHZ1pTIVG18b4vo+c=
+
+Name: cust/cust/cn/ota_customized_channellist
+SHA1-Digest: CunKltksShXBFOUWM6/jhkwYdbA=
+
+Name: system.new.dat
+SHA1-Digest: 79dPu1iks/am07XuleRNJ+0suo0=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: WEY6IzB7dABJGZ6XJ5IFyH9ZKR0=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: 0VKk9LW2ccZPK8SM99m4fKgOShs=
+
+Name: firmware-update/sbl1.mbn
+SHA1-Digest: bf7AjNpSyR1izjq9BuX04xmxTIE=
+
+Name: firmware-update/cmnlib.mbn
+SHA1-Digest: 8vESHWdll1Fn9dHqQfSF8CNPvS0=
+

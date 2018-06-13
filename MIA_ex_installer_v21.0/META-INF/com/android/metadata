@@ -1,0 +1,3 @@
+post-build=Xiaomi/kate/kate:6.0.1/MMB29M/6.12.1:user/release-keys
+post-timestamp=1480524112
+pre-device=kate
