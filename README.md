@@ -15,7 +15,6 @@ Includes more than 14.300 app and activity icons extending your default MIUI 9 
 - Flash MIA ex in TWRP recovery
 - Reboot and wait
 - Apply default MIUI 9 theme (only if new icons are not set)
-- MIA ex works best on ROMs like multiROM.me, Xiaomi.eu, globeROM and other custom MIUI ROMs. It may not work on stock ROMs by Xiaomi.
 
 //////////////////////////////////////////////////////////////////////////
 
