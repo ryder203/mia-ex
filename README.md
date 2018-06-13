@@ -1,7 +1,7 @@
 # mia-ex
 MIUI Icon Add-On extended
 
-DISCONTINUED
+**DISCONTINUED**
 
 License: CC-BY-NC-SA
 
